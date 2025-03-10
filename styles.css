@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+/* styles.css */
+#loading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#error {
+  color: red;
+  font-size: 24px;
+  font-weight: bold;
+}
